@@ -1,0 +1,44 @@
+.btn {
+
+	background-color:#30A9DE;
+}
+
+a:link {
+	color: white;
+}
+
+a:visited {
+	color: white;
+}
+
+table {
+
+	font-family: 'Indie Flower', cursive;
+	font-size: 20px;
+
+}
+
+th {
+
+	background-color: #D7FFF1;
+	color: black;
+	font size: 35px;
+}
+
+table {
+	border-style: solid;
+	border-color: #D7FFF1;
+}
+
+#topspots {
+
+	text-align:center;
+	font-family: 'Indie Flower', cursive;
+	font-size: 50px;
+	background-image: url("http://www.wallpaperswide.us/wp-content/uploads/2016/01/plaka-athens-city-street-4k-wallpaper.jpg");
+	background-size: cover;
+	opacity: 0.5;
+	padding: 30px;
+	color: #fff;
+	font-weight: bold;
+}
